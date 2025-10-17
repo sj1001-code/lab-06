@@ -1,3 +1,3 @@
 # lab-06
-Name: Shula Juguilon
-ccid: sjuguilo
+- Name: Shula Juguilon
+- ccid: sjuguilo
